@@ -1043,25 +1043,6 @@ class _QrScanScreenState extends State<QrScanScreen> {
                             'https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=TastyAppMenu2026',
                           ),
                         ),
-                        // // 4 прицельных уголка
-                        // Positioned(
-                        //   top: 0,
-                        //   left: 0,
-                        //   child: buildCorner(isTop: true, isLeft: true),
-                        // ),
-                        // Positioned(
-                        //   top: 0,
-                        //   right: 0,
-                        //   child: buildCorner(isTop: true, isLeft: false),
-                        // ),
-                        // Positioned(
-                        //   bottom: 0,
-                        //   left: 0,
-                        //   child: buildCorner(
-                        //     isTop:
-                        //         'Normally I can help with things like this, but I don t seem to have access to that content.You can try again or ask me for something else.',
-                        //   ),
-                        // ),
                       ],
                     ),
                   ),
